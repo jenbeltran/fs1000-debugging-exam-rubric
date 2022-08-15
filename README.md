@@ -1,10 +1,11 @@
-# FS1000 Individual Debugging Exam
+# FS1000 Individual Debugging Exam 
 
 You will be given a files with broken code and a Figma design. You will need to troubleshoot to get the files to match the design.
 
 ### Rules
 - Must be logged off Slack
 - The internet is fair game
+- You have 1hr and 15mins to send me a Github link 
 
 ### Grading
 | Assessment Criteria | Not Good Enough _(0% score <60%)_ | Good _(60% score <90%)_ | Very Good _(%90 score %100)_ | **Marks** |
