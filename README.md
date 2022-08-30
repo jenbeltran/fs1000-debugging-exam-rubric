@@ -7,7 +7,7 @@ You will be given a files with broken code and a Figma design. You will need to 
 - If you're online - you must have your camera on
 - Any questions throughout the exam can be asked over Zoom
 - The internet is fair game
-- You have 1hr and 15mins to send me a Github link 
+- You have 1hr and 15mins to send me a Github PR link 
 
 ### Grading
 | Assessment Criteria | Not Good Enough _(0% score <60%)_ | Good _(60% score <90%)_ | Very Good _(%90 score %100)_ | **Marks** |
