@@ -4,6 +4,8 @@ You will be given a files with broken code and a Figma design. You will need to 
 
 ### Rules
 - Must be logged off Slack
+- If you're online - you must have your camera on
+- Any questions throughout the exam can be asked over Zoom
 - The internet is fair game
 - You have 1hr and 15mins to send me a Github link 
 
